@@ -1,0 +1,72 @@
+[
+  {
+    "phrase": "other",
+    "n_gram": 1,
+    "occurrence_count": {
+      "inc": 1
+    }
+  },
+  {
+    "phrase": "Device",
+    "n_gram": 1,
+    "occurrence_count": {
+      "inc": 1
+    }
+  },
+  {
+    "phrase": "procedures",
+    "n_gram": 1,
+    "occurrence_count": {
+      "inc": 1
+    }
+  },
+  {
+    "phrase": "diagnostic",
+    "n_gram": 1,
+    "occurrence_count": {
+      "inc": 1
+    }
+  },
+  {
+    "phrase": "and",
+    "n_gram": 1,
+    "occurrence_count": {
+      "inc": 1
+    }
+  },
+  {
+    "phrase": "public HEALTH",
+    "n_gram": 2,
+    "occurrence_count": {
+      "inc": 12
+    }
+  },
+  {
+    "phrase": "health RELated Problem",
+    "n_gram": 3,
+    "occurrence_count": {
+      "inc": 1
+    }
+  },
+  {
+    "phrase": "Online Tutorials",
+    "n_gram": 2,
+    "occurrence_count": {
+      "inc": 10
+    }
+  },
+  {
+    "phrase": "science",
+    "n_gram": 1,
+    "occurrence_count": {
+      "inc": 10
+    }
+  },
+  {
+    "phrase": "computer science",
+    "n_gram": 2,
+    "occurrence_count": {
+      "inc": 10
+    }
+  }
+]

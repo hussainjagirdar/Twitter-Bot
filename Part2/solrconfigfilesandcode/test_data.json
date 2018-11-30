@@ -1,0 +1,12 @@
+[
+  {
+    "phrase": "computer science",
+    "n_gram": 2,
+    "occurrence_count": 2
+  },
+  {
+    "phrase": "science",
+    "n_gram": 1,
+    "occurrence_count": 5
+  }
+]

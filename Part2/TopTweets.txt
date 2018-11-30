@@ -1,0 +1,28 @@
+selena
+pivot= 8
+{1: u'what', 2: u'we', 3: u'know', 4: u'nobody', 5: u'will', 7: u'hate', 8: 'selena', 9: u'fan', 10: u'club'}
+
+youtube
+{1: 'youtube', 2: u'video', 3: u'of', 4: u'god', 5: u'so', 6: u'if', 7: u"you've", 8: u'finished', 9: u'studying', 10: u'maths'}
+
+obama 
+pivot= 0
+{0: 'obama', 3: u'will', 4: u'you', 5: u'must', 7: u'think', 8: u'someone', 9: u'elses', 10: u'designs'}
+
+sachin
+pivot= 7
+{1: u'ur', 2: u'coming', 3: u'out', 5: u'where', 6: u'its', 7: 'sachin', 8: u'is', 9: u'still', 10: u'time'}
+
+
+trump
+pivot= 0
+{0: 'trump', 1: u'good', 2: u'lookin', 4: u'4ward', 5: u'his', 6: u'twitter', 8: u'will', 9: u'make', 10: u'out'}
+
+eminem
+pivot= 7
+{1: u'omg', 2: u'wat', 3: u'does', 4: u'one', 5: u'awesome', 6: u'rapper', 7: 'eminem', 8: u'will', 9: u'this', 10: u'pic'}
+
+ipl
+pivot= 0
+{0: 'ipl', 2: u'franchise', 3: u'must', 4: u'begin', 5: u'our', 6: u'great', 7: u'new', 8: u"year's", 9: u'world', 10: u'that'}
+
